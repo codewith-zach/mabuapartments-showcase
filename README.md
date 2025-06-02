@@ -1,43 +1,42 @@
 # 🏡 mabuapartments-showcase
 
-A showcase of a full-stack Airbnb-style client project built with **Next.js**, **Paystack**, and **PostgreSQL**.
-
-🌐 [Live Demo](https://www.mabuapartments.com/)  
-🔒 **Note**: Source code is private due to client confidentiality.
+A showcase of a full-stack Airbnb-style client project built with **Next.js**, **Paystack**, and **PostgreSQL**.  
+🔗 [Live Deployment](https://www.mabuapartments.com/)  
+📌 **Note**: Source code is private due to client confidentiality.
 
 ---
 
-## 🚀 Tech Stack
+## ⚙️ Tech Stack
 
 ### 🎨 Frontend
 
-- ⚛️ **Next.js 15** – React framework with App Router
-- 🧠 **TypeScript** – Type-safe development
-- 🌈 **Tailwind CSS** – Utility-first CSS framework
-- 🌀 **Framer Motion** – Smooth animation library
-- 📝 **React Hook Form** – Intuitive form handling
-- 🧪 **Zod** – Schema validation
-- 🧱 **Shadcn/UI** – Modern component library
-- 🎯 **Lucide React** – Icon set for clean UI
+- ⚛️ **Next.js 15** – React framework with App Router  
+- 🧠 **TypeScript** – Type-safe development  
+- 🎨 **Tailwind CSS** – Utility-first CSS framework  
+- 🌀 **Framer Motion** – Smooth animations  
+- 📝 **React Hook Form** – Form handling and validation  
+- 🧾 **Zod** – Schema validation  
+- 🧩 **Shadcn/UI** – Modern, customizable components  
+- 🖼️ **Lucide React** – Icon library  
 
-### 🗄️ Backend & Database
+### 🔧 Backend & Database
 
-- 🌐 **Next.js API Routes** – Server-side logic
-- 🔧 **Prisma ORM** – Database toolkit
-- 🛢️ **PostgreSQL (Neon)** – Serverless relational DB
-- ⚙️ **Server Actions** – Seamless server-side execution
+- 🧵 **Next.js API Routes** – Server-side API endpoints  
+- 🧱 **Prisma ORM** – Type-safe database toolkit  
+- 🐘 **PostgreSQL** – Primary database (Neon)  
+- 🚀 **Server Actions** – Server-side form handling  
 
 ### 💸 Payment & Communication
 
-- 💰 **Paystack** – Payment processing integration
-- 💬 **WhatsApp API** – Direct messaging
-- 📧 **Nodemailer** – Email confirmations
+- 💳 **Paystack** – Secure payment processing  
+- 💬 **WhatsApp API** – Booking communication  
+- 📧 **Nodemailer** – Email confirmations  
 
 ### ☁️ Deployment & Infrastructure
 
-- ▲ **Vercel** – Hosting & CI/CD
-- 🧬 **Neon Database** – Scalable serverless PostgreSQL
-- 🌍 **Custom Domain** – Branded domain setup
+- ▲ **Vercel** – Hosting and deployment  
+- 🛢️ **Neon Database** – Serverless PostgreSQL  
+- 🌐 **Custom Domain** – Professional branding  
 
 ---
 
@@ -45,96 +44,79 @@ A showcase of a full-stack Airbnb-style client project built with **Next.js**, *
 
 ### 🏠 Property Management
 
-- 🛏️ **Multiple Room Types** – Studio, One-bedroom, Two-bedroom
-- 🖼️ **Dynamic Image Galleries** – Interactive carousels
-- 📄 **Detailed Property Pages** – Info-rich listings
-- 📱 **Responsive Design** – Optimized for all devices
+- 🏘️ Multiple Room Types: Studio, One-bedroom, Two-bedroom  
+- 🖼️ Dynamic Image Galleries with carousels  
+- 📄 Detailed Property Pages  
+- 📱 Fully Responsive Design  
 
 ### 📅 Booking System
 
-- 🟢 **Real-time Availability** – Live calendar updates
-- 📆 **Date Range Picker** – Easy selection
-- 💵 **Pricing Calculator** – Dynamic total cost
-- 🔐 **Availability Logic** – Prevents double bookings
+- 🟢 Real-time Availability Calendar  
+- 📆 Intuitive Date Picker  
+- 💰 Automatic Pricing Calculation  
+- 🚫 Room Availability Logic  
 
 ### 💳 Payment Integration
 
-- 🔗 **Paystack Integration** – Secure payments
-- 🧾 **Multiple Payment Options** – Card, transfer, USSD, more
-- ✅ **Payment Verification** – Confirm bookings securely
-- 📥 **Booking Confirmation** – Automated email receipts
+- 🔐 Secure Paystack Integration  
+- 💵 Card, Transfer, USSD, Mobile Money support  
+- ✅ Server-side Payment Verification  
+- 📨 Automated Booking Confirmations  
 
 ### 📱 Communication Features
 
-- 🟢 **WhatsApp Integration** – Instant messaging with host
-- 📬 **Email Notifications** – Auto responses & updates
-- 📇 **Contact Forms** – Seamless inquiries
+- 💬 WhatsApp Integration for quick contact  
+- 📧 Email Notifications  
+- 📝 Contact Forms  
 
-### 🧑‍🎨 User Experience
+### 🎨 User Experience
 
-- 🧼 **Modern UI/UX** – Sleek and professional
-- 🕹️ **Interactive Elements** – Hover effects and animations
-- 🔄 **Loading States** – Feedback and error handling
-- ♿ **Accessibility** – Inclusive design for all users
+- 🌈 Modern UI/UX with animations  
+- 🖱️ Hover effects & transitions  
+- ⏳ Loading states & feedback  
+- ♿ Accessibility (ARIA, keyboard nav, screen reader support)  
 
 ### 📊 Content Management
 
-- 📚 **Dynamic Content** – DB-driven listings
-- 🌟 **Review System** – Ratings & guest feedback
-- ❓ **FAQ Section** – Expandable help section
-- 🏢 **About Pages** – Company info and location
+- 🔄 Dynamic Listings & Availability  
+- 🌟 Review System  
+- ❓ Expandable FAQ Section  
+- 🏢 Company Info Pages  
 
-### 🍞 Additional Features
+### 🍞 Extra Features
 
-- 🥐 **Bakery Menu** – Rayuwa Bakery integration
-- 🗺️ **Location Info** – Nearby landmarks
-- 💬 **Testimonials** – Real user reviews
-- ✉️ **Newsletter Signup** – Email subscription
+- 🥐 **Rayuwa Bakery** menu integration  
+- 🗺️ Interactive Maps with landmarks  
+- 💬 Testimonials Carousel  
+- 📩 Newsletter Signup  
 
-### 🧠 Technical Features
+### 🔧 Technical Features
 
-- ⚡ **Server-Side Rendering** – SEO-friendly
-- 🛡️ **Error Boundaries** – Resilient UI handling
-- 🧮 **Database Optimization** – Fast queries
-- 🔐 **Type Safety** – Full TypeScript support
-- 🖼️ **Responsive Images** – Optimized loading
+- ⚡ Server-Side Rendering (SSR)  
+- 🚧 Error Boundaries  
+- 🧠 Optimized DB Queries  
+- 🔐 Type Safety with TypeScript  
+- 🖼️ Responsive Image Loading  
 
 ---
 
-## 🖼️ Screenshots
+## 🎥 Project Demo Video
 
-### 🏠 Homepage  
-*Modern hero section with video background and call-to-action*  
-![Homepage](./screenshots/homepage.jpg)
+> A quick walkthrough showing all major features: listings, booking, payments, mobile responsiveness, and more.
 
-### 📋 Property Listings  
-*Clean property grid with filtering and detailed information*  
-![Listings](./screenshots/listing.png)
-
-### 📅 Booking Interface  
-*Interactive calendar with real-time availability checking*  
-![Booking](./screenshots/booking.png)
-
-### 🏘️ Property Details  
-*Comprehensive property information with image galleries*  
-![Details](./screenshots/details.png)
-
-### 📱 Mobile Experience  
-*Fully responsive design optimized for mobile devices*  
-![Mobile](./screenshots/mobile.png)
+▶️ **[Click to watch the 2-minute Loom video](https://www.loom.com/share/8f93e0f6d5404d41ae07594310ad1acf?sid=aecc8e9b-96d9-4317-a67b-2e30cb5d2fe8)**
 
 ---
 
 ## 🚧 Development Status
 
-⚠️ **Important Note**: The complete booking functionality is currently in development and **not fully live yet**. The **Paystack integration is ready and functional**, but we're waiting for final client verification and approval from Paystack to enable live transactions.
+⚠️ **Note**: The full booking functionality is currently in development.  
+- 🔐 Paystack integration is implemented but pending final client verification  
+- 🟢 WhatsApp integration and UI/UX flows are complete and live
 
-The current live demo includes:
+🗓️ **Expected Completion**: Awaiting client and payment provider confirmation  
+🔎 Meanwhile, users can browse, select rooms, view availability, and inquire via WhatsApp.
 
-- ✅ Full user interface
-- ✅ Room browsing
-- ✅ Availability checking
-- 🚫 Payments temporarily disabled (awaiting approval)
-- ✅ WhatsApp direct messaging (fully functional)
+---
 
-📅 **Expected Completion**: Pending Paystack verification and client go-live confirmation.
+
