@@ -105,7 +105,7 @@ A showcase of a full-stack Airbnb-style client project built with **Next.js**, *
 
 ### 🏠 Homepage  
 *Modern hero section with video background and call-to-action*  
-![Homepage](./screenshots/homepage.png)
+![Homepage](./screenshots/homepage.jpg)
 
 ### 📋 Property Listings  
 *Clean property grid with filtering and detailed information*  
